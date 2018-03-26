@@ -22,7 +22,7 @@ class Author
   end
 
   def self.post_count
-    @posts!=nil ? @posts.count : nil
+    @posts.count unless @posts!=nil end
 
 
   end
