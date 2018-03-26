@@ -24,4 +24,8 @@ class Artist
   def songs
     @songs
   end
+
+  def soung_count
+    @@soung_count
+  end
 end
