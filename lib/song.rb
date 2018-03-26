@@ -9,4 +9,8 @@ class Song
     @title
   end
 
+  def self.artist_name
+    @artist
+  end
+
 end

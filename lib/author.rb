@@ -27,6 +27,6 @@ class Author
 
   end
 
-  
+
 
 end
