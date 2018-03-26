@@ -18,6 +18,6 @@ class Artist
     @songs << song
     song.artist = Self
   end
-    
+
 
 end
