@@ -22,9 +22,9 @@ class Author
   end
 
   def self.post_count
-    if @posts.count>0 return @posts.count
-    else return nil
-    end
+    if @posts.count>0 ? @posts.count : nil
+    
+    
   end
 
 end
