@@ -5,4 +5,8 @@ class Artist
     @songs = []
   end
 
+  def name
+    @name
+  end
+
 end
