@@ -9,5 +9,5 @@ class Post
   def self.author_name
     @author
   end
-  
+
 end
